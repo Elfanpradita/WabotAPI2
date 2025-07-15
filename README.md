@@ -1,17 +1,3 @@
-
----
-
-```markdown
-# 🤖 WhatsApp Bot - Express + Baileys (Docker Ready)
-
-Bot WhatsApp ini dibuat menggunakan:
-- [Node.js](https://nodejs.org/)
-- [Express](https://expressjs.com/)
-- [Baileys](https://github.com/WhiskeySockets/Baileys)
-- Mendukung login dengan QR dan pengiriman pesan via API.
-
----
-
 ## 🚀 Fitur
 
 - Login dengan scan QR code (tersimpan di folder `session/`)
@@ -20,22 +6,6 @@ Bot WhatsApp ini dibuat menggunakan:
 - Docker-ready untuk deployment lintas platform
 
 ---
-
-## 🗂️ Struktur Folder
-
-```
-
----
-
-## 📦 Instalasi
-
-### 🔧 Jalankan tanpa Docker
-
-```bash
-cd node
-npm install
-node app.js
-````
 
 ### 🐳 Jalankan dengan Docker
 
